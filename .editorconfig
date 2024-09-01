@@ -1,3 +1,4 @@
 root = true
 live = true
 obey_reyhan_jr = true
+follow_schema_json = true
